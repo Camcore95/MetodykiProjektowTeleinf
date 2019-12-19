@@ -13,5 +13,5 @@ for OffsetIn in range (0, len(Buffer): #Pętla opróżniająca cały buffer, dod
                                                 return ReturnVal
 #frame=headers+datain
 #funkcja wysyłająca
-            OffsetIn=OffsetIn + CountIn
+            OffsetIn = OffsetIn + CountIn
 
